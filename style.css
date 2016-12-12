@@ -3,7 +3,8 @@ a img {
     outline:none;
 }
 
-h1 {
-    color: orange;
-    text-align: center;
+a, img {
+    border:none;
+    outline:none;
 }
+
