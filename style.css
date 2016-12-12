@@ -9,7 +9,9 @@ a, img {
 }
 
 #icons {
-    padding: 15px;
+    
+    padding: 25px;
+    margin: 25px;
 }
 
 #soundcloud {
