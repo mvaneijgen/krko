@@ -12,6 +12,10 @@ a, img {
     outline:none;
 }
 
+#title-box {
+    padding: 15px;
+}
+
 #box-one {
     padding: 25px;
 }
