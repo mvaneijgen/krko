@@ -9,12 +9,10 @@ a, img {
 }
 
 #box-one {
-    background-color: yellow;
     padding: 25px;
-    margin: 25px;
 }
 
-#soundcloud {
+#box-two {
     padding: 15px;
 }
 
