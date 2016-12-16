@@ -1,15 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+main {
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
 h1 {
     font-size: 100px;
 }
-
-a img {
-    border:none;
-    outline:none;
+h2 {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+}
+.social-icon {
+    text-decoration: none;
+}
+.social-icon {
+  max-width: 32%;
+  padding: 5px;
+  display: inline-block;
 }
 
-a, img {
-    border:none;
-    outline:none;
+.social-icon img {
+  width: 100%;
 }
 
 #title-box {
@@ -23,4 +42,6 @@ a, img {
 #box-two {
     padding: 15px;
 }
-
+#soundcloud-widget {
+    max-width: 100%;
+}
